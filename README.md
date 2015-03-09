@@ -1,1 +1,1 @@
-An initical web application with a basic spring configuration.
+An initial web application with a basic spring configuration.
